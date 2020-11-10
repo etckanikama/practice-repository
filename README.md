@@ -1,4 +1,4 @@
 # practice-repository
-簡単なソースコードを作って動作を確認したりするのに使用する練習用リポジトリ
+pandas/numpy/matplotlib/scipyの動作確認などをColabで実装した練習リポジトリ
 
 主にgoogleColaboratolyなどで動作を確認してあげる予定です。
